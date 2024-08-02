@@ -21,7 +21,7 @@ The app also implements an email verification system for users registering using
 -   Fork this repo and run the `git clone <forked repo>` command from your terminal/bash.
 -   Cd into the directories and `npm install`
 -   Create a `.env` file in the root directory and add the variables as in [this file](https://github.com/sunrisedev99/mern-stack-ecommerce/blob/main/env.md)
--   Create a `.env` file in the frontend folder and add the variables as in [this file](https://github.com/ssunrisedev99/mern-stack-ecommerce/frontend/blob/main/env.md)
+-   Create a `.env` file in the frontend folder and add the variables as in [this file](https://github.com/ssunrisedev99/mern-stack-ecommerce/frontend/env.md)
 -   Run the command `npm run dev` to run the server side and the client side concurrently.
 
 You can obtain the MONGO_URI after creating a collection on [mongodb atlas](https://www.mongodb.com/cloud/atlas).
